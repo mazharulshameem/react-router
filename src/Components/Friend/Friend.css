@@ -7,3 +7,18 @@
   background-color: rgb(198, 164, 202);
   box-shadow: 2px 2px 4px 4px rgb(179, 119, 202);
 }
+.button{
+  width: 100%;
+  padding: 10px;
+  font-size:20px;
+  background-color: rgb(43, 255, 131);
+  border: none;
+  font: bold;
+  color:white;
+
+}
+.button:hover{
+  background-color: black;
+  color: white;
+}
+

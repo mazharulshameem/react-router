@@ -10,10 +10,11 @@ const Friend = ({friend}) => {
       <div className="friend">
         <h1>{name}</h1>
         <h3>Email: {email}</h3>
-        <h2>
-          u-name:<Link to={`/friend/${id}`} >{username}</Link> 
-        </h2>
+        <h2>u-name:{username}</h2>
         <h3>Website: {website}</h3>
+        <Link to={`/friend/${id}`}>
+          <button className='button'>Show Details</button>
+        </Link>
       </div>
     </div>
   );
