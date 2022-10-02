@@ -2,6 +2,7 @@
 .header{
   background-color: rgb(10, 10, 10);
   padding:20px;
+ 
 }
 .header a{
   text-decoration: none;
@@ -13,5 +14,9 @@
 .header a:hover{
   background-color: rgb(43, 255, 131);
   color: black;
+  
+}
+.active{
+  background-color: rgb(177, 112, 194);
   
 }
