@@ -3,3 +3,7 @@
 // expect(element).toHaveTextContent(/react/i)
 // learn more: https://github.com/testing-library/jest-dom
 import '@testing-library/jest-dom';
+
+// install router : ipm i react-router-dom 
+// create router using : createBrowserRouter
+// add router provider  and router pass 

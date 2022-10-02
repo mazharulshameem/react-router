@@ -1,0 +1,9 @@
+.friend{
+  
+  border: 3px solid rgb(43, 255, 131);
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(198, 164, 202);
+  box-shadow: 2px 2px 4px 4px rgb(179, 119, 202);
+}
